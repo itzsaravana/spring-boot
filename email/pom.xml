@@ -38,7 +38,7 @@
 
     <build>
         <plugins>
-            <!-- Package as an executable jar/war -->
+            <!-- Package as an executable jar/war - its us branch commit ->
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
