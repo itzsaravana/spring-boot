@@ -40,7 +40,7 @@
 	</dependencies>
 	<build>
 		<plugins>
-			<!-- Package as an executable jar/war -->
+			<!-- Package as an executable jar/war its eu commit -->
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
